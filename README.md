@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 
 ---
 
-### Portfolio:
+### Portfolio Front end:
 
+<a href = "https://vuqartagiyev.github.io/AITTM-front-end/">YWS</a>
 <a href = "https://vuqartagiyev.github.io/ForTeacher/">Shahnaz Shahbazob Web site</a>
+<a href = "https://vuqartagiyev.github.io/Easybank/">EasyBank</a>
+<a href = "https://vuqartagiyev.github.io/FrontEndMentor2/">Huddle</a>
 
 
 
