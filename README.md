@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+### Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -49,8 +51,9 @@ Here are some ideas to get you started:
     <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
     <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
 </div>
+
 ---
-### Porfolio:
+
 
 
 
