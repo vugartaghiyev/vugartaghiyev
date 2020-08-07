@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
 </div>
 
----
+
 
 ### Portfolio Front end:
 
