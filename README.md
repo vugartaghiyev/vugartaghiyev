@@ -44,20 +44,20 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<div align="left" >
     <img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
     <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
     <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
-</div>
-
+<br />
+<br />
+---
 
 
 ### Portfolio Front end:
 
-<a href = "https://vuqartagiyev.github.io/AITTM-front-end/">YWS</a>
-<a href = "https://vuqartagiyev.github.io/ForTeacher/">Shahnaz Shahbazob Web site</a>
-<a href = "https://vuqartagiyev.github.io/Easybank/">EasyBank</a>
-<a href = "https://vuqartagiyev.github.io/FrontEndMentor2/">Huddle</a>
+<a href = "https://vuqartagiyev.github.io/AITTM-front-end/">YWS</a> <br />  
+<a href = "https://vuqartagiyev.github.io/ForTeacher/">Shahnaz Shahbazob Web site</a><br />  
+<a href = "https://vuqartagiyev.github.io/Easybank/">EasyBank</a><br />  
+<a href = "https://vuqartagiyev.github.io/FrontEndMentor2/">Huddle</a><br />  
 
 
 
