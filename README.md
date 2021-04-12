@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 ### Portfolio Front end:
 
+<a href = "https://kitapp.az">Kitapp</a> <br />  
+<a href = "https://bookavid.com">Bookavid</a> <br />  
 <a href = "https://vuqartagiyev.github.io/AITTM-front-end/">YWS</a> <br />  
 <a href = "https://vuqartagiyev.github.io/ForTeacher/">Shahnaz Shahbazob Web site</a><br />  
 <a href = "https://vuqartagiyev.github.io/Easybank/">EasyBank</a><br />  
