@@ -53,7 +53,6 @@ vugartaghiyev@mail.ru
 <br />
 
 ### Portfolio Front end:
-<br />
 <a href = "https://kitapp.az">Kitapp</a> <br />  
 <a href = "https://bookavid.com">Bookavid</a> <br />  
 <a href = "https://vuqartagiyev.github.io/khoomi/">Khoomi</a> <br />  
