@@ -4,19 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there, I'm Vugar 👋
 
 ## I'm a Front end Developer!
-- 🌱 I’m currently learning everything 
 
 ### Connect with me:
 
@@ -41,7 +31,6 @@ vugartaghiyev@mail.ru
 <br />
 <div align="left" >
     <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-    <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
 </div>
 
 <br />
