@@ -13,21 +13,13 @@ Here are some ideas to get you started:
 ### Hi there, I'm Vugar 👋
 
 ## I'm a Front end Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
 
     
-        
-          
-    
-
-        
-    
-    @@ -35,15 +33,13 @@ vugartaghiyev@mail.ru
+  
   
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 vugartaghiyev@mail.ru
