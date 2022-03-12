@@ -2,12 +2,22 @@
 
 ## I'm a React developer
 
+### Website and mail:
+
+[<p>Website</p>][website]
+
+<p>vugartaghiyev00@gmail.com</p>
+
+<br />
+
 ### Connect with me:
 
-[<img align="left" alt="Vugar's website" width="26px" src="https://vugartaghiyev.netlify.app/" style="padding-right:10px;" />][website]
 [<img align="left" alt="Stackoverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackoverflow.svg" style="padding-right:10px;" />][stackoverflow]
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
+
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -25,7 +35,7 @@
 [<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/adobexd.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/figma.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/github.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/jirasoftware.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/trello.svg" style="padding-right:10px;" />][website]
 
