@@ -4,11 +4,11 @@
 
 ### Website and mail:
 
-[<p>Website</p>][website]
+[<span>Website</span>][website]
 
-<p>vugartaghiyev00@gmail.com</p>
+<span>vugartaghiyev00@gmail.com</span>
 
-<br />
+---
 
 ### Connect with me:
 
