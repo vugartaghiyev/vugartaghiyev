@@ -1,70 +1,48 @@
-<!--
-**VuqarTagiyev/VuqarTagiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Vugar 👋
+# Hi there, I'm Vugar
 
-## I'm a Front end Developer!
-
+## I'm a React developer
 
 ### Connect with me:
 
+[![website](./img/globe-light.svg)](https://vugartaghiyev.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://vugartaghiyev.netlify.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/taghiyev_vugar#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/taghiyev_vugar#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vugartaghiyev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vugartaghiyev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackoverflow.svg)](https://stackoverflow.com/users/17408994/vugar-taghiyev#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackoverflow.svg)](https://stackoverflow.com/users/17408994/vugar-taghiyev#gh-dark-mode-only)
 
-    
-  
-  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-vugartaghiyev@mail.ru
-<br />
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/bootstrap.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redux.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Nextjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/nextdotjs.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/tailwindcss.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/firebase.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/adobexd.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/figma.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][website]
+[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/jirasoftware.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/trello.svg" style="padding-right:10px;" />][website]
 
 <br />
 <br />
-<div align="left" >
-    <img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
-    <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-</div>
 
-    
+---
 
-          
-    
-    
-  
-<br />
-<br />
+  <summary>:zap: GitHub Stats</summary>
 
-### Portfolio Front end:
-<a href = "https://kitappweb.herokuapp.com/">Kitapp</a> <br />  
-<a href = "https://bookavid.com">Bookavid</a> <br />  
-<a href = "https://vuqartagiyev.github.io/khoomi/">Khoomi</a> <br />  
-<a href = "https://vuqartagiyev.github.io/AITTM-front-end/">YWS</a> <br />  
-<a href = "https://vuqartagiyev.github.io/ForTeacher/">Web site</a><br />  
-<a href = "https://vuqartagiyev.github.io/Easybank/">EasyBank</a><br />  
-<a href = "https://vuqartagiyev.github.io/FrontEndMentor2/">Huddle</a><br />  
+  <img align="left" alt="Vugar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vugartaghiyev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-
-
-
-[website]: https://myenvatotemp.herokuapp.com/
-[twitter]: https://twitter.com/Vugar74715747
-[instagram]: https://www.instagram.com/azedevelop/
-[linkedin]: https://www.linkedin.com/in/vuqar-tagiyev-6b0291192/
+[website]: https://vugartaghiyev.netlify.app
