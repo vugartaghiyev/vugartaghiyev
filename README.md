@@ -22,7 +22,6 @@ I will update here
 <br />
 
 ### Languages and Tools:
-<div style = "background: white">
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/visualstudiocode.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/html5.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/css3.svg" style="padding-right:10px;" />][website]
@@ -40,7 +39,6 @@ I will update here
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/github.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/jirasoftware.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/trello.svg" style="padding-right:10px;" />][website]
-</div>
 <br />
 <br />
 
